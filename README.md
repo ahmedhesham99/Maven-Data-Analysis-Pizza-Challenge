@@ -1,5 +1,9 @@
 # Maven-Data-Analysis-Pizza-Challenge
 
+![Sales Page](https://github.com/user-attachments/assets/ee16f1c4-b586-480c-9a74-45d9327cd343)
+![Operations Page](https://github.com/user-attachments/assets/99229823-0644-4477-a16d-dd449534fd55)
+
+
 ## Project Objective:
 - Sales Performance: Analyze revenues through the year and pizzas performance.
 - Operations Performance: Analyze the peak periods to see how well the restaurant is utilizing the seating capacity of 15 tables (60 total seats).
@@ -33,16 +37,8 @@
 - Review the Weak Link: Try to get customer reviews for The Brie Carre Pizza (worst seller) to know if the reason is lack of marketing or poor portions.
 - Staffing Adjustments: Increase staffing levels during the peak hours of 12 PM, 1 PM, 5 PM, and 6 PM, especially on Fridays, and consider advanced ingredient preparation to be completed before.
 - Maximize Peak Month: Initiate inventory and staffing reviews in May/June to ensure maximum capacity for the July peak.
-Menu Optimization: During peak times, simplifying the menu or focusing on faster-to-prepare and items and pause the lowest volume time consuming pizzas could help manage order volume without compromising quality.
-Pre-order System: Implementing or promoting a pre-order system could help smooth out demand fluctuations.
-Prioritize the Classic Category: Create a dedicated, permanently stocked assembly station for the Classic category. Since these are the highest volume and simplest pizzas, they should be routed through the fastest lane to minimize overall queue time.
-Optimize Large-Size Production: Implement a system to pre-form 80% of the expected large-sized dough for lunch and dinner rushes. This shifts the slow, manual task of dough shaping out of the critical peak period.
-Capacity Review: Consider the ability to take 5 tables for temporary usage in the production area based on the assumption that most orders were for delivery because of the large size and supreme category high volume.In conclusion, while not a constant issue, the identified overload periods represent critical junctures where operational adjustments could enhance efficiency and customer satisfaction.
-
-
-
-
-
-
-![Sales Page](https://github.com/user-attachments/assets/ee16f1c4-b586-480c-9a74-45d9327cd343)
-![Operations Page](https://github.com/user-attachments/assets/99229823-0644-4477-a16d-dd449534fd55)
+- Menu Optimization: During peak times, simplifying the menu or focusing on faster-to-prepare and items and pause the lowest volume time consuming pizzas could help manage order volume without compromising quality.
+- Pre-order System: Implementing or promoting a pre-order system could help smooth out demand fluctuations.
+- Prioritize the Classic Category: Create a dedicated, permanently stocked assembly station for the Classic category. Since these are the highest volume and simplest pizzas, they should be routed through the fastest lane to minimize overall queue time.
+- Optimize Large-Size Production: Implement a system to pre-form 80% of the expected large-sized dough for lunch and dinner rushes. This shifts the slow, manual task of dough shaping out of the critical peak period.
+- Capacity Review: Consider the ability to take 5 tables for temporary usage in the production area based on the assumption that most orders were for delivery because of the large size and supreme category high volume.In conclusion, while not a constant issue, the identified overload periods represent critical junctures where operational adjustments could enhance efficiency and customer satisfaction.

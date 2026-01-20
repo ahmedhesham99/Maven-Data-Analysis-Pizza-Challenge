@@ -5,7 +5,8 @@
 - Sales Performance: Analyze revenues through the year and pizzas performance.
 - Operations Performance: Analyze the peak periods to see how well the restaurant is utilizing the seating capacity of 15 tables (60 total seats).
 
-**Tools Used:** Data cleaning, processing and quick analysis were performed using Python (Pandas), while final analysis, visualization and dashboarding were prototyped in Power BI.
+## Tools Used:
+Data cleaning, processing and quick analysis were performed using **Python (Pandas)**, while final analysis, visualization and dashboarding were prototyped in **Power BI**.
 
 ## Key Insights:
 - **Over all Financial Health:**
